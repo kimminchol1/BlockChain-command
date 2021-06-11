@@ -42,8 +42,9 @@ https://sotoedu.herokuapp.com/
 	  })
     })  // end of txbuilder
 
-<!-- …or push an existing repository from the command line
+## editing
+## …or push an existing repository from the command line
 git remote add origin https://github.com/mozzihozzi/GolfPoseCorrection.git
 git branch -M main
 git push -u origin main
-     -->
+     
